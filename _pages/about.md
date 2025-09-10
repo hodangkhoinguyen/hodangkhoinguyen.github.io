@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 My name is Nguyen Ho. I am a second-year PhD student in Computer Science at George Mason University, advised by [Prof. ThanhVu Nguyen](https://github.com/nguyenthanhvuh/).
-My research interest
+My research interest is Deep Neural Network Verification, focusing on generating benchmarks for DNN Verifiers.
